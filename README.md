@@ -19,6 +19,8 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 ---
 
 ## 📂 Dataset
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-orange?style=for-the-badge&logo=microsoft-excel)](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)
+
 The dataset includes transaction-level details from an e-commerce business, with columns like:
 - **Order ID, Product Name, Sub-Category, Category**
 - **Sales, Profit, Quantity, Discount**
