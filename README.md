@@ -43,7 +43,7 @@ The dataset includes transaction-level details from an e-commerce business, with
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](Snapshot of Business Sales.png/)
 
 ---
 
