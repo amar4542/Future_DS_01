@@ -45,7 +45,8 @@ The dataset includes transaction-level details from an e-commerce business, with
 ## 📷 Dashboard Preview
 ![Dashboard Preview](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
 
-
+## 📊 Dashboard File
+[![Download Dashboard](https://img.shields.io/badge/Download-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/dashboard.pbix)
 
 ---
 
