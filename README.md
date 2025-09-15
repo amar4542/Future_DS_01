@@ -43,7 +43,8 @@ The dataset includes transaction-level details from an e-commerce business, with
 ---
 
 ## 📷 Dashboard Preview
-[![Dashboard Preview](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
+![Dashboard Preview](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
+
 
 
 ---
