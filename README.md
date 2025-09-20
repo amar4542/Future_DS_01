@@ -21,7 +21,8 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 
 ## 📂 Project Links 
 - 📑 **Dataset** → [Download Here](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)  
-- 📊 **Dashboard File** → [View Dashboard](https://github.com/amar4542/Future_DS_01/blob/main/Future%20Interns%20Task%201.pbit)  
+- 📊 **Dashboard File** → [View Dashboard](https://github.com/amar4542/Future_DS_01/blob/main/Future%20Interns%20Task%201.pbit)
+# Dashboard Preview
 - [![Dashboard Preview](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
 
 
