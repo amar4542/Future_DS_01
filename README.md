@@ -19,13 +19,47 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 
 ---
 
-## 📂 Project Links   
+<div class="p-6 bg-gray-900 text-white min-h-screen font-sans">
+  <!-- Project Links Section -->
+  <h2 class="text-2xl font-bold flex items-center gap-2 mb-4">
+    📂 Project Links
+  </h2>
+  
+  <div class="grid md:grid-cols-2 gap-6 mb-8">
+    <!-- Dataset Card -->
+    <div class="bg-gray-800 rounded-2xl shadow-lg p-5 flex flex-col items-center text-center hover:scale-105 transition">
+      <h3 class="text-lg font-semibold mb-3">📊 Dataset</h3>
+      <a href="https://github.com/amar4542/Business-Sales/blob/main/superstore.xls" 
+         target="_blank" 
+         class="px-5 py-2 rounded-xl bg-blue-500 hover:bg-blue-600 text-white font-medium">
+        ⬇️ Download
+      </a>
+    </div>
 
-[![📑 Dataset](https://img.shields.io/badge/Dataset-Download-blue?style=for-the-badge&logo=microsoft-excel)](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)  
-[![📊 Dashboard](https://img.shields.io/badge/Dashboard-Preview-success?style=for-the-badge&logo=power-bi)](https://github.com/amar4542/Future_DS_01/blob/main/Future%20Interns%20Task%201.pbit)  
-(https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)  
-# Dashboard Preview
-- [![Dashboard Preview](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
+    <!-- Dashboard Card -->
+    <div class="bg-gray-800 rounded-2xl shadow-lg p-5 flex flex-col items-center text-center hover:scale-105 transition">
+      <h3 class="text-lg font-semibold mb-3">📈 Dashboard</h3>
+      <a href="#" 
+         class="px-5 py-2 rounded-xl bg-green-500 hover:bg-green-600 text-white font-medium">
+        👁 Preview
+      </a>
+    </div>
+  </div>
+
+  <!-- Dashboard Preview Section -->
+  <h2 class="text-2xl font-bold flex items-center gap-2 mb-4">
+    🖥 Dashboard Preview
+  </h2>
+
+  <div class="bg-gray-800 rounded-2xl shadow-lg p-6 flex flex-col items-center hover:scale-105 transition">
+    <h3 class="text-lg font-semibold mb-4">Live Dashboard</h3>
+    <a href="#" 
+       class="px-6 py-2 rounded-xl bg-blue-500 hover:bg-blue-600 text-white font-medium">
+      🔗 Open Dashboard
+    </a>
+  </div>
+</div>
+
 
 ---
 ## 📂 Dataset Details 
