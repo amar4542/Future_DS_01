@@ -20,8 +20,8 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 ---
 
 ## 📂 Project Links 
-[- 📑 [Dataset](https://img.shields.io/badge/Download-Dataset-orange?style=for-the-badge&logo=microsoft-excel)](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)
-- 📊 [Dashboard File](./superstore.pbix)
+- 📑 **Dataset** → [Download Here](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)  
+- 📊 **Dashboard File** → [View Dashboard](./superstore.pbix)  
 - [![Dashboard Preview](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
 
 
