@@ -25,7 +25,8 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 # Dashboard Preview
 - [![Dashboard Preview](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
 
-
+---
+## Dashboard Details
 The dataset includes transaction-level details from an e-commerce business, with columns like:
 - **Order ID, Product Name, Sub-Category, Category**
 - **Sales, Profit, Quantity, Discount**
