@@ -21,16 +21,16 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 
 ## 📂 Project Links  
 ### 📊 Dataset  
-[![Download Dataset](https://img.shields.io/badge/DATASET-Download-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Business-Sales/raw/main/superstore.xls)
+[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Business-Sales/raw/main/superstore.xls)
 
 ### 📈 Dashboard  
-[![Download Dashboard](https://img.shields.io/badge/DASHBOARD-Download-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_01/raw/main/Future%20Interns%20Task%201.pbit)
+[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_01/raw/main/Future%20Interns%20Task%201.pbit)
 
 ---
 
 ## 🖥 Dashboard Preview  
 
-[![Preview Dashboard](https://img.shields.io/badge/VIEW-Dashboard-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 
 
