@@ -8,18 +8,22 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 
 ---
 
-## ✨ Features
-- ✅ **Total Sales & Profit KPIs** displayed at a glance  
-- ✅ **Sales & Profit by Ship Mode** (Pie Chart)  
-- ✅ **Sales by Sub-Category** (Bar Chart)  
-- ✅ **Sales & Profit by Sub-Category** (Clustered Column + Line Chart)  
-- ✅ **Top Products by Sales** (Horizontal Bar Chart)  
-- ✅ **Region-based Filter** for interactive insights  
+## ✨ Features  
+✅ KPI Cards: Total Sales, Profit, and Quantity  
+✅ Sales by Region (Donut Chart)  
+✅ Sales by Segment (Pie Chart)  
+✅ Sales by City (Bar Chart)  
+✅ Sales & Profit by Region (Clustered Column + Line Chart)  
+✅ Sales by Sub-Category (Horizontal Bar Chart)  
+✅ City-based Filter for interactive insights  
 
 ---
 
-## 📂 Dataset
-[![Download Dataset](https://img.shields.io/badge/Download-Dataset-orange?style=for-the-badge&logo=microsoft-excel)](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)
+## 📂 Project Links 
+[- 📑 [Dataset](https://img.shields.io/badge/Download-Dataset-orange?style=for-the-badge&logo=microsoft-excel)](https://github.com/amar4542/Business-Sales/blob/main/superstore.xls)
+- 📊 [Dashboard File](./superstore.pbix)
+- [![Dashboard Preview](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
+
 
 The dataset includes transaction-level details from an e-commerce business, with columns like:
 - **Order ID, Product Name, Sub-Category, Category**
@@ -35,19 +39,15 @@ The dataset includes transaction-level details from an e-commerce business, with
 
 ---
 
-## 📈 Insights
+## 📈 Key Insights  
 - **Total Sales:** 2.30M  
 - **Total Profit:** 286.40K  
-- **Most Sales by Sub-Category:** Phones & Chairs  
-- **Most Profitable Products:** High contribution from Office Supplies & Technology  
-- **Ship Mode Contribution:** Standard Class dominates with ~52%  
+- **Total Quantity:** 38K  
+- **Top Sub-Categories by Sales:** Phones & Chairs  
+- **Regional Sales:** West leads with 725.46K (~32%)  
+- **Segment Contribution:** Consumer segment dominates with 50.56% of sales  
+- **High Sales Cities:** New York, Los Angeles, Seattle    
 
 ---
 
-## 📷 Dashboard Preview
-[![Preview Dashboard](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
-
-
-
----
 
