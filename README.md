@@ -30,7 +30,7 @@ It is designed to help business stakeholders track **KPIs (Key Performance Indic
 
 ## 🖥 Dashboard Preview  
 
-[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_01/blob/main/Snapshot%20of%20Business%20Sales.png)
 
 
 
